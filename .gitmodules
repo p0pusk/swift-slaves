@@ -1,0 +1,3 @@
+[submodule "example-package-dealer"]
+	path = example-package-dealer
+	url = https://github.com/apple/example-package-dealer.git
